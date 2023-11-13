@@ -1,0 +1,2 @@
+ddddocr~=1.4.8
+selenium~=4.9.1
